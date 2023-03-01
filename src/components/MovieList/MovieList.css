@@ -1,0 +1,9 @@
+.moviesList {
+    display : flex;
+    flex-wrap: wrap;
+}
+
+.film {
+    margin: 1%;
+    
+}
